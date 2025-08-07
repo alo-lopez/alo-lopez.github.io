@@ -1,4 +1,5 @@
-**Email**: atl5@rice.edu 
+## Email: 
+atl5@rice.edu 
 
 ## Preprints
 
