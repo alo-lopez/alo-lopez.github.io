@@ -1,7 +1,7 @@
 **Email**: atl5@rice.edu 
 
-Let the second fundamental form \( A \) and mean curvature \( H \) satisfy the inequality:
-\[
-|A|^2 \leq \frac{1}{2} H^2
-\]
-as a condition toward roundness in inverse mean curvature flow.
+## Preprints
+
+1. **Alejandro Lopez**, Ren Watson, Bella Villarreal, Jaedon Whyte.  
+   *Almost All Transverse-Free Curves are Trivially Transverse-Free.*  
+   Submitted. [arXiv:2502.00549](https://arxiv.org/abs/2502.00549)
